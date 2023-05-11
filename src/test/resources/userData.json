@@ -1,0 +1,32 @@
+{
+  "user1": {
+    "email": "artis+10@shapegames.com",
+    "password": "Qwerty123",
+    "firstName": "Bob",
+    "middleName": "Bob",
+    "lastName": "Bob",
+    "gender": "Male",
+    "address": "Address",
+    "zipCode": "K0E2B3",
+    "city": "City",
+    "province": "Ontario",
+    "phoneNumber": "1112223333",
+    "jobCategory": "Homemaker",
+    "jobDescription": "Homemaker"
+  },
+  "betSafeOnTest1": {
+    "email": "betsafe-on+test1@shapegames.com",
+    "password": "Q!w2e3r4",
+    "firstName": "Shape",
+    "middleName": "asdf",
+    "lastName": "One",
+    "gender": "Male",
+    "address": "asdf",
+    "zipCode": "asdf",
+    "city": "asdf",
+    "province": "Ontario",
+    "phoneNumber": "123123123",
+    "jobCategory": "Legal Occupations",
+    "jobDescription": "Correctional Service Officer"
+  }
+}
